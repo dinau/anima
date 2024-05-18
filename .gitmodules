@@ -29,6 +29,6 @@
 [submodule "par"]
 	path = LuaJIT-par/par
 	url = https://github.com/sonoro1234/par
-[submodule "Luajit-ImGui"]
-	path = Luajit-ImGui
-	url = https://github.com/dinau/Luajit-ImGui
+[submodule "LuaJIT-ImGui"]
+	path = LuaJIT-ImGui
+	url = https://github.com/dinau/LuaJIT-ImGui
